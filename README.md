@@ -1,4 +1,4 @@
-# Loan Approval Prediction
+# Loan Approval Prediction [Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s4e10)
 
 ## 📌 Overview
 This project develops and evaluates machine learning models to predict loan approval decisions based on applicant characteristics such as income, employment length, home ownership, loan purpose, and credit history.  
